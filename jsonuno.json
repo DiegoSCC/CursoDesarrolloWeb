@@ -1,0 +1,17 @@
+[
+    {
+        "estado": "Por hacer",
+        "nombre": "Lavar los platos",
+        "categoria": "Limpieza"
+    },
+    {
+        "estado": "Completado",
+        "nombre": "Ordenar la alacena",
+        "categoria": "Limpieza"
+    },
+    {
+        "estado": "En Proceso",
+        "nombre": "Estudiar para examen final",
+        "categoria": "Estudio"
+    }
+]
